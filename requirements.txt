@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+# YOLOv8
+ultralytics==8.3.32
+# Streamlit app
+streamlit
+# Optional
+pyyaml
+tqdm
+albumentations
